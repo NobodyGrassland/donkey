@@ -8,7 +8,7 @@ node {
             echo "let's get started"
             sleep 5
             echo "almost"
-            sleep 3
+            sleep 4
             echo "finished"
         }
 }
