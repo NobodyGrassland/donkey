@@ -1,7 +1,7 @@
 node {
         stage('Checkout') {
             checkout scm
-            echo "cloned"
+            echo "cloned like a goat"
         }
 
         stage('Build') {
